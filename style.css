@@ -1,0 +1,7 @@
+.slider-image{
+    filter: brightness(40%) !important;
+}
+.slider-title{
+    font-size: 65px;
+    font-weight: 600;
+}
